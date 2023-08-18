@@ -1,7 +1,9 @@
-# MIPS
+# MIPS Processor 
 
+An implementation of a MIPS CPU written in Verilog.
 
-https://en.wikipedia.org/wiki/MIPS_architecture
+![The MIPS Processor](http://i.imgur.com/6R3Xz.png)
 
+> MIPS architecture in wikipedia: https://en.wikipedia.org/wiki/MIPS_architecture
 
-Contributors:  [**Ali Ghanbari**](https://github.com/ali-ghanbary) & [**Mohammad Mashreghi**](https://github.com/M-Mashreghi)
+[**Ali Ghanbari**](https://github.com/ali-ghanbary) & [**Mohammad Mashreghi**](https://github.com/M-Mashreghi)
